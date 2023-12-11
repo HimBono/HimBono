@@ -1,7 +1,6 @@
-# Hello World! 🌍
-#### I am **REDACTED** a CS student at **REDACTED** 😄. I am passionate about problem solving and creating efficient solutions. ⚡
+# Greetings, Earthlings! 👽
+#### I am a ComputerScience student 🤓. I love to crack codes and hack systems. 💥
 
-- 🔭 I’m currently working on **Competitive Programming** and **Cyber Security**🎯
-- I am looking forward to improving my knowledge and skills in **Cloud Computing** and **Reverse Engineering** 💻 
-- I love reading books 📚, especially on **Finance** and **Personal Development** 
-
+- 🔭 I’m currently exploring the realms of **Competitive Programming** and **Cyber Security**🔒
+- I aspire to master the arts of **Cloud Computing** and **Reverse Engineering** 🌩️ 
+- I enjoy devouring books 📚, especially on **Finance** and **Personal Development**
