@@ -1,6 +1,5 @@
-# Greetings, Earthlings! 👽
-#### I am a ComputerScience student 🤓. I love to crack codes and hack systems. 💥
+# Hi, I’m Ibrahim 👋
 
-- 🔭 I’m currently exploring the realms of **Competitive Programming** and **Cyber Security**🔒
-- I aspire to master the arts of **Cloud Computing** and **Reverse Engineering** 🌩️ 
-- I enjoy devouring books 📚, especially on **Finance** and **Personal Development**
+🎓 Final-year Computer Science student @ IIUM  
+💻 Passionate about building systems that blend **AI, networking, and security**  
+⚡ Interested in **cloud computing, deep learning, and full-stack development**  
