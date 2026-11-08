@@ -33,7 +33,7 @@ Some of it runs. Some of it chases me.
 
 ## 📫 Say hi
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimBono)
 
 <div align="center">
 
